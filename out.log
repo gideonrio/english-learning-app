@@ -1,0 +1,55 @@
+▲ Next.js 16.2.0 (Turbopack)
+- Local:         http://localhost:3006
+- Network:       http://10.30.233.239:3006
+✓ Ready in 3.1s
+
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 2.4s (next.js: 1066ms, application-code: 1345ms)
+⚠ Blocked cross-origin request to Next.js dev resource /_next/webpack-hmr from "sphere-chief-diploma-identity.trycloudflare.com".
+Cross-origin access to Next.js dev resources is blocked by default for safety.
+
+To allow this host in development, add it to "allowedDevOrigins" in next.config.js and restart the dev server:
+
+// next.config.js
+module.exports = {
+  allowedDevOrigins: ['sphere-chief-diploma-identity.trycloudflare.com'],
+}
+
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 196ms (next.js: 21ms, application-code: 175ms)
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 156ms (next.js: 11ms, application-code: 145ms)
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 106ms (next.js: 8ms, application-code: 99ms)
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 159ms (next.js: 11ms, application-code: 148ms)
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 124ms (next.js: 10ms, application-code: 114ms)
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 617ms (next.js: 155ms, application-code: 463ms)
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 939ms (next.js: 39ms, application-code: 900ms)
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 1465ms (next.js: 456ms, application-code: 1009ms)
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 1448ms (next.js: 687ms, application-code: 761ms)
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 907ms (next.js: 324ms, application-code: 583ms)
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 129ms (next.js: 11ms, application-code: 118ms)
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 104ms (next.js: 8ms, application-code: 95ms)
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 110ms (next.js: 9ms, application-code: 101ms)
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 180ms (next.js: 15ms, application-code: 165ms)
+[Server HMR] Update failed, full reload needed: SyntaxError: Identifier 'isSyncing' has already been declared
+    at eval (<anonymous>)
+[Server HMR] Listener error: SyntaxError: Identifier 'isSyncing' has already been declared
+    at eval (<anonymous>)
+✓ Compiled in 255ms
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 1004ms (next.js: 410ms, application-code: 594ms)
+Rendering Home Component. LoggedIn: false Days: 50
+ GET / 200 in 374ms (next.js: 107ms, application-code: 267ms)
